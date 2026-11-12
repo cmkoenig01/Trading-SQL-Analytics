@@ -1,0 +1,16 @@
+{
+  "seed": 7,
+  "clean_trades": 1100,
+  "missing": 8,
+  "price_range": 6,
+  "unknown_market": 5,
+  "pnl_mismatch": 7,
+  "duplicates": 12,
+  "total_bad": 38,
+  "ledger_bad_days": 3,
+  "ledger_bad_dates": [
+    "2026-03-12",
+    "2026-03-13",
+    "2026-06-18"
+  ]
+}
